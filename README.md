@@ -1,4 +1,4 @@
-# The Complete Data Structures and Algorithms Course in Python
+# The Complete Data Structures and Algorithms in Python
 
 ### Table of Contents
 
